@@ -1,0 +1,5 @@
+{
+  "name": "Copy of OYO PG & Room Finder",
+  "description": "A web application clone of OYO designed to help students find paying guest (PG) accommodations and rooms. Users can search by location, filter results by price, amenities, and ratings, and view property details. The app leverages the Gemini API to generate realistic property listings.",
+  "requestFramePermissions": []
+}
